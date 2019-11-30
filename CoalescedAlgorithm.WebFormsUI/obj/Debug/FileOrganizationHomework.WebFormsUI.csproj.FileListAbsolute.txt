@@ -1,0 +1,13 @@
+C:\Users\kaleh\source\repos\FileOrganizationHomework\FileOrganizationHomework.WebFormsUI\bin\Debug\FileOrganizationHomework.WebFormsUI.pdb
+C:\Users\kaleh\source\repos\FileOrganizationHomework\FileOrganizationHomework.WebFormsUI\obj\Debug\FileOrganizationHomework.WebFormsUI.csprojAssemblyReference.cache
+C:\Users\kaleh\source\repos\FileOrganizationHomework\FileOrganizationHomework.WebFormsUI\obj\Debug\FileOrganizationHomework.WebFormsUI.Algorithms.resources
+C:\Users\kaleh\source\repos\FileOrganizationHomework\FileOrganizationHomework.WebFormsUI\obj\Debug\FileOrganizationHomework.WebFormsUI.csproj.GenerateResource.cache
+C:\Users\kaleh\source\repos\FileOrganizationHomework\FileOrganizationHomework.WebFormsUI\obj\Debug\FileOrganizationHomework.WebFormsUI.csproj.CoreCompileInputs.cache
+C:\Users\kaleh\source\repos\FileOrganizationHomework\FileOrganizationHomework.WebFormsUI\obj\Debug\FileOrganizationHomework.WebFormsUI.pdb
+C:\Users\kaleh\source\repos\FileOrganizationHomework\FileOrganizationHomework.WebFormsUI\bin\Debug\FileOrganizationHomework.WebFormsUI.exe
+C:\Users\kaleh\source\repos\FileOrganizationHomework\FileOrganizationHomework.WebFormsUI\obj\Debug\FileOrganizationHomework.WebFormsUI.exe
+C:\Users\kaleh\source\repos\FileOrganizationHomework\FileOrganizationHomework.WebFormsUI\bin\Debug\FileOrganizationHomework.Business.dll
+C:\Users\kaleh\source\repos\FileOrganizationHomework\FileOrganizationHomework.WebFormsUI\bin\Debug\Ninject.dll
+C:\Users\kaleh\source\repos\FileOrganizationHomework\FileOrganizationHomework.WebFormsUI\bin\Debug\FileOrganizationHomework.Business.pdb
+C:\Users\kaleh\source\repos\FileOrganizationHomework\FileOrganizationHomework.WebFormsUI\bin\Debug\Ninject.xml
+C:\Users\kaleh\source\repos\FileOrganizationHomework\FileOrganizationHomework.WebFormsUI\obj\Debug\FileOrganizationHomework.WebFormsUI.csproj.CopyComplete

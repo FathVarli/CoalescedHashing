@@ -1,0 +1,13 @@
+C:\Users\kaleh\OneDrive\Masaüstü\FileOrganizationHomework\FileOrganizationHomework.WebFormsUI\bin\Debug\FileOrganizationHomework.WebFormsUI.exe
+C:\Users\kaleh\OneDrive\Masaüstü\FileOrganizationHomework\FileOrganizationHomework.WebFormsUI\bin\Debug\FileOrganizationHomework.WebFormsUI.pdb
+C:\Users\kaleh\OneDrive\Masaüstü\FileOrganizationHomework\FileOrganizationHomework.WebFormsUI\bin\Debug\FileOrganizationHomework.Business.dll
+C:\Users\kaleh\OneDrive\Masaüstü\FileOrganizationHomework\FileOrganizationHomework.WebFormsUI\bin\Debug\Ninject.dll
+C:\Users\kaleh\OneDrive\Masaüstü\FileOrganizationHomework\FileOrganizationHomework.WebFormsUI\bin\Debug\FileOrganizationHomework.Business.pdb
+C:\Users\kaleh\OneDrive\Masaüstü\FileOrganizationHomework\FileOrganizationHomework.WebFormsUI\bin\Debug\Ninject.xml
+C:\Users\kaleh\OneDrive\Masaüstü\FileOrganizationHomework\FileOrganizationHomework.WebFormsUI\obj\Debug\CoalescedAlgorithm.WebFormsUI.csprojAssemblyReference.cache
+C:\Users\kaleh\OneDrive\Masaüstü\FileOrganizationHomework\FileOrganizationHomework.WebFormsUI\obj\Debug\CoalescedAlgorithm.WebFormsUI.Algorithms.resources
+C:\Users\kaleh\OneDrive\Masaüstü\FileOrganizationHomework\FileOrganizationHomework.WebFormsUI\obj\Debug\CoalescedAlgorithm.WebFormsUI.csproj.GenerateResource.cache
+C:\Users\kaleh\OneDrive\Masaüstü\FileOrganizationHomework\FileOrganizationHomework.WebFormsUI\obj\Debug\CoalescedAlgorithm.WebFormsUI.csproj.CoreCompileInputs.cache
+C:\Users\kaleh\OneDrive\Masaüstü\FileOrganizationHomework\FileOrganizationHomework.WebFormsUI\obj\Debug\CoalescedAlgorithm.WebFormsUI.csproj.CopyComplete
+C:\Users\kaleh\OneDrive\Masaüstü\FileOrganizationHomework\FileOrganizationHomework.WebFormsUI\obj\Debug\FileOrganizationHomework.WebFormsUI.exe
+C:\Users\kaleh\OneDrive\Masaüstü\FileOrganizationHomework\FileOrganizationHomework.WebFormsUI\obj\Debug\FileOrganizationHomework.WebFormsUI.pdb

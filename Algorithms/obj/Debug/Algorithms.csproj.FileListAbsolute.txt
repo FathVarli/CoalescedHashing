@@ -1,0 +1,13 @@
+C:\Users\kaleh\source\repos\FileOrganizationHomework\Algorithms\obj\Debug\Algorithms.csprojAssemblyReference.cache
+C:\Users\kaleh\source\repos\FileOrganizationHomework\Algorithms\obj\Debug\Algorithms.exe.config
+C:\Users\kaleh\source\repos\FileOrganizationHomework\Algorithms\obj\Debug\Algorithms.frmAlgorithms.resources
+C:\Users\kaleh\source\repos\FileOrganizationHomework\Algorithms\obj\Debug\Algorithms.Properties.Resources.resources
+C:\Users\kaleh\source\repos\FileOrganizationHomework\Algorithms\obj\Debug\Algorithms.csproj.GenerateResource.cache
+C:\Users\kaleh\source\repos\FileOrganizationHomework\Algorithms\obj\Debug\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\kaleh\source\repos\FileOrganizationHomework\Algorithms\obj\Debug\Algorithms.Form1.resources
+C:\Users\kaleh\OneDrive\Masaüstü\FileOrganizationHomework\Algorithms\obj\Debug\Algorithms.csprojAssemblyReference.cache
+C:\Users\kaleh\OneDrive\Masaüstü\FileOrganizationHomework\Algorithms\obj\Debug\Algorithms.exe.config
+C:\Users\kaleh\OneDrive\Masaüstü\FileOrganizationHomework\Algorithms\obj\Debug\Algorithms.Form1.resources
+C:\Users\kaleh\OneDrive\Masaüstü\FileOrganizationHomework\Algorithms\obj\Debug\Algorithms.Properties.Resources.resources
+C:\Users\kaleh\OneDrive\Masaüstü\FileOrganizationHomework\Algorithms\obj\Debug\Algorithms.csproj.GenerateResource.cache
+C:\Users\kaleh\OneDrive\Masaüstü\FileOrganizationHomework\Algorithms\obj\Debug\Algorithms.csproj.CoreCompileInputs.cache

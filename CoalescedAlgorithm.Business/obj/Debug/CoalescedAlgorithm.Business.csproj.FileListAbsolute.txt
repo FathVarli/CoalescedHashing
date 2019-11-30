@@ -1,0 +1,9 @@
+C:\Users\kaleh\OneDrive\Masaüstü\FileOrganizationHomework\FileOrganizationHomework.Business\bin\Debug\FileOrganizationHomework.Business.dll
+C:\Users\kaleh\OneDrive\Masaüstü\FileOrganizationHomework\FileOrganizationHomework.Business\bin\Debug\FileOrganizationHomework.Business.pdb
+C:\Users\kaleh\OneDrive\Masaüstü\FileOrganizationHomework\FileOrganizationHomework.Business\bin\Debug\Ninject.dll
+C:\Users\kaleh\OneDrive\Masaüstü\FileOrganizationHomework\FileOrganizationHomework.Business\bin\Debug\Ninject.xml
+C:\Users\kaleh\OneDrive\Masaüstü\FileOrganizationHomework\FileOrganizationHomework.Business\obj\Debug\CoalescedAlgorithm.Business.csprojAssemblyReference.cache
+C:\Users\kaleh\OneDrive\Masaüstü\FileOrganizationHomework\FileOrganizationHomework.Business\obj\Debug\CoalescedAlgorithm.Business.csproj.CoreCompileInputs.cache
+C:\Users\kaleh\OneDrive\Masaüstü\FileOrganizationHomework\FileOrganizationHomework.Business\obj\Debug\CoalescedAlgorithm.Business.csproj.CopyComplete
+C:\Users\kaleh\OneDrive\Masaüstü\FileOrganizationHomework\FileOrganizationHomework.Business\obj\Debug\FileOrganizationHomework.Business.dll
+C:\Users\kaleh\OneDrive\Masaüstü\FileOrganizationHomework\FileOrganizationHomework.Business\obj\Debug\FileOrganizationHomework.Business.pdb
